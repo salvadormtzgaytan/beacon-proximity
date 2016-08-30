@@ -14,4 +14,6 @@
     <access origin="*" />
     <preference name="DisallowOverscroll" value="true" />
 	<plugin name="de.appplant.cordova.plugin.local-notification-ios9-fix" spec="0.8.2" source="pgb" />
+	<plugin name="ptdev.makingwaves2.estimotes" spec="1.0.1" source="pgb" />
+	<plugin name="com.unarin.cordova.beacon" spec="3.2.1" source="pgb" />
 </widget>
